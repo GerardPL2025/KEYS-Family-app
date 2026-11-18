@@ -10,12 +10,13 @@ Source: `Keys_Approved_PRDs` zip uploaded 18 Nov 2026. All files were converted 
     - [Phase two](https://drive.google.com/drive/folders/16ITw89demMOa2m4UvOekSuAgUfGKaHXG) · [Phase two – Template PRDs](https://drive.google.com/drive/folders/1Io9nJIU5DWiKqlJ_H5FC3KBYfEruzoOW)
     - [Phase three](https://drive.google.com/drive/folders/1ezccav84qU78VwtAVxBm8KamjJ_KKf6H) · [Platform-wide](https://drive.google.com/drive/folders/1pSQKV9cJLDUKrdHbE-aZO9nHgw8yD3tT)
   - [02 – KEYS Family App PRDs (new)](https://drive.google.com/drive/folders/1vcqTrp9QWMi5nmve-SkYMS2f-NpyE1Aa)
+  - [03 – Archive (replaced originals)](https://drive.google.com/drive/folders/1aAv8-2x-Y2_FkxCTpDAQa_XLA2ENkb8W)
 
 ## Feature PRDs
 
 | # | Phase | Feature | Template version (newer, migrated) | Original version | Family app PRD | Review status |
 |---|---|---|---|---|---|---|
-| 1 | Phase 1 | Resident Onboarding | [KEYS · Resident Onboarding PRD v1.2](https://docs.google.com/document/d/1mKrA8LDrLdACuyDn710cOkzm9xQOOvCw5jtzlpaRxtw/edit) | [Resident Onboarding](https://docs.google.com/document/d/1gmgd71TrC7_SkM02YFqSLtpm6U-I_20cqcHZuLakF_E/edit) | — | Not started |
+| 1 | Phase 1 | Resident Onboarding | [KEYS · Resident Onboarding PRD v1.2](https://docs.google.com/document/d/1mKrA8LDrLdACuyDn710cOkzm9xQOOvCw5jtzlpaRxtw/edit) | [Resident Onboarding](https://docs.google.com/document/d/1gmgd71TrC7_SkM02YFqSLtpm6U-I_20cqcHZuLakF_E/edit) | [Resident Onboarding (Keys Family draft)](https://docs.google.com/document/d/1-Yo-nFRnQLY96CiTNDA4jwMfqoN7NFWpLBkLGUGD5fU/edit) · [KEYS Family · Resident Onboarding PRD v1.2 (draft)](https://docs.google.com/document/d/1U1kzgvTSFOEWC4sU05xA9KH6gP2xfY7NX_iZsILw6DA/edit) | Approved 2026-11-18; old versions archived |
 | 2 | Phase 1 | Address Verification and Payment Methods | [KEYS · Address Verification and Payment Methods PRD v1.2](https://docs.google.com/document/d/1mSNzzY20ftNkgbuUc0KsHrcIrx_msCsQIaPJRdfpv90/edit) | [Address_Verification_PRD](https://docs.google.com/document/d/13x-Q0-ukHQ6fuG9Y27BynZYUt9dvCljEDusqs5ZvoIE/edit) | — | Not started |
 | 3 | Phase 1 | Profile and Settings | [KEYS · Profile and Settings PRD v1.2](https://docs.google.com/document/d/1lZqRr-6hFkrn_vtMjsBVQ4bgSncEd2ARalK_hYbBfZs/edit) | [Profile_And_Settings_PRD](https://docs.google.com/document/d/1jY6huRTA-B2kNx6QFTK6fQP8l4m-uzQ_Ihmmyh0dPEA/edit) | — | Not started |
 | 4 | Phase 1 | Home (Feed, News, Polls and Updates) | [KEYS · Home PRD v1.2 (Feed, News, Polls and Updates)](https://docs.google.com/document/d/1cw79h2bNXutv64-a8xlJ57jADRpqsiWfzC1XrgLLH-E/edit) | [Home_PRD](https://docs.google.com/document/d/1TR-f_j1F3VMdq35GtzsoF24q4lFth2JRxVj8O40-dWs/edit) | — | Not started |
