@@ -1,0 +1,51 @@
+# KEYS Family App – PRD Index
+
+Source: `Keys_Approved_PRDs` zip uploaded 18 Nov 2026. All files were converted to Google Docs/Sheets.
+
+## Google Drive folders
+
+- [KEYS Family App – PRDs](https://drive.google.com/drive/folders/1hYHv-Snr86HeOtZM9_tXsoV_K7amhwtY) (top level)
+  - [01 – Original Keys PRDs (reference)](https://drive.google.com/drive/folders/1KLjcGh9nyeg65XpDaGtmwLSdy1E7xDTI)
+    - [Phase one](https://drive.google.com/drive/folders/1O3WbdLNK5nw1TAblFCXkxGGaClDkYTL4) · [Phase one – Template PRDs](https://drive.google.com/drive/folders/18zq3RbAsKVVJUD39amXoQmN_KEKqsvfs)
+    - [Phase two](https://drive.google.com/drive/folders/16ITw89demMOa2m4UvOekSuAgUfGKaHXG) · [Phase two – Template PRDs](https://drive.google.com/drive/folders/1Io9nJIU5DWiKqlJ_H5FC3KBYfEruzoOW)
+    - [Phase three](https://drive.google.com/drive/folders/1ezccav84qU78VwtAVxBm8KamjJ_KKf6H) · [Platform-wide](https://drive.google.com/drive/folders/1pSQKV9cJLDUKrdHbE-aZO9nHgw8yD3tT)
+  - [02 – KEYS Family App PRDs (new)](https://drive.google.com/drive/folders/1vcqTrp9QWMi5nmve-SkYMS2f-NpyE1Aa)
+
+## Feature PRDs
+
+| # | Phase | Feature | Template version (newer, migrated) | Original version | Family app PRD | Review status |
+|---|---|---|---|---|---|---|
+| 1 | Phase 1 | Resident Onboarding | [KEYS · Resident Onboarding PRD v1.2](https://docs.google.com/document/d/1mKrA8LDrLdACuyDn710cOkzm9xQOOvCw5jtzlpaRxtw/edit) | [Resident Onboarding](https://docs.google.com/document/d/1gmgd71TrC7_SkM02YFqSLtpm6U-I_20cqcHZuLakF_E/edit) | — | Not started |
+| 2 | Phase 1 | Address Verification and Payment Methods | [KEYS · Address Verification and Payment Methods PRD v1.2](https://docs.google.com/document/d/1mSNzzY20ftNkgbuUc0KsHrcIrx_msCsQIaPJRdfpv90/edit) | [Address_Verification_PRD](https://docs.google.com/document/d/13x-Q0-ukHQ6fuG9Y27BynZYUt9dvCljEDusqs5ZvoIE/edit) | — | Not started |
+| 3 | Phase 1 | Profile and Settings | [KEYS · Profile and Settings PRD v1.2](https://docs.google.com/document/d/1lZqRr-6hFkrn_vtMjsBVQ4bgSncEd2ARalK_hYbBfZs/edit) | [Profile_And_Settings_PRD](https://docs.google.com/document/d/1jY6huRTA-B2kNx6QFTK6fQP8l4m-uzQ_Ihmmyh0dPEA/edit) | — | Not started |
+| 4 | Phase 1 | Home (Feed, News, Polls and Updates) | [KEYS · Home PRD v1.2 (Feed, News, Polls and Updates)](https://docs.google.com/document/d/1cw79h2bNXutv64-a8xlJ57jADRpqsiWfzC1XrgLLH-E/edit) | [Home_PRD](https://docs.google.com/document/d/1TR-f_j1F3VMdq35GtzsoF24q4lFth2JRxVj8O40-dWs/edit) | — | Not started |
+| 5 | Phase 1 | Audience Management | [KEYS · Audience Management PRD v1.2](https://docs.google.com/document/d/1zVpbkF6mak_nieCyOBLJ9GbQcT1iDz0bEVRGX_92SJc/edit) | [Audience_Management_PRD](https://docs.google.com/document/d/1_iqcn3vEvpPc4kGfzuNOtzA1H3UGhlBGPAyd5SudgCU/edit) | — | Not started |
+| 6 | Phase 1 | Community Management | — | [Community_Management_PRD_v2_Keys](https://docs.google.com/document/d/1JqI_DmMR5jVj7ugZP5MxS88HCIm8wVlh8xjgFi-DMmw/edit) | — | Not started |
+| 7 | Phase 1 | Community Board Management | [KEYS · Community Board Management PRD v1.2](https://docs.google.com/document/d/1iLpRSDSozTzpLNKZB-ecLmYUKclFFdBeLKBARWzhZ3w/edit) | [Community_Board_Management_PRD](https://docs.google.com/document/d/1_JrzE-jWpInxsH59tF2g8cVUVrnjJjO6rfv7aaIXq-U/edit) | — | Not started |
+| 8 | Phase 1 | Voting Mechanism | [KEYS · Voting Mechanism PRD v1.2](https://docs.google.com/document/d/1nIZ1LVJnRS-Dw-VMOZ7-fCK48Mzcr329MktN7qOZcp8/edit) | [Voting_Mechanism_PRD](https://docs.google.com/document/d/1Lk_uEhmge9e_RgBqe07cGC_WJj48GQDweZqTp9JXVoU/edit) | — | Not started |
+| 9 | Phase 1 | Chat | [KEYS · Chat PRD v1.2](https://docs.google.com/document/d/1d7DoRc3fqDJfqArrBgKNKeR8Z5Zk1hpRBEO6PYN3JfM/edit) | [Chat_Feature_PRD](https://docs.google.com/document/d/1xyEO6qy843bPzHBnFQZ7qTRh7QkD0jJ1PjrFQ-rPaKU/edit) | — | Not started |
+| 10 | Phase 1 | Events | [KEYS · Events PRD v1.2](https://docs.google.com/document/d/1OEvZreKhV8S_X2C73IRHyWFRRPpPJbsl_X39ayBwBrs/edit) | [Events_Feature_PRD](https://docs.google.com/document/d/1zhWYM1bjg3S7mEWdDD5H9Dwk-fJ6BXp8U6F3Nb15u50/edit) | — | Not started |
+| 11 | Phase 1 | Calendar | [KEYS · Calendar PRD v1.2](https://docs.google.com/document/d/1BqcSQKO9dnTr3sX7b371ZmAJWf-VwEHLHYKf-3Wc6B8/edit) | [Calendar_PRD](https://docs.google.com/document/d/1rAyr9XG_L6_Qqa7cQwoJ0Wzo5klEp6mY5Pcrrg25dCg/edit) | — | Not started |
+| 12 | Phase 1 | Clubs | [KEYS · Clubs PRD v1.2](https://docs.google.com/document/d/1ad2KFIsUViTJuQVb_5j7NWZqhHb9Ps5JPFlwZEE45MU/edit) | [Clubs_Feature_PRD](https://docs.google.com/document/d/1jGaZKbX_DJLHlwqAAq4h-NyAYaZVOQU0qBhlwX7LvdA/edit) | — | Not started |
+| 13 | Phase 1 | Communal Service | [KEYS · Communal Service PRD v1.2](https://docs.google.com/document/d/1RM7SG6IxGd66aWFwdyFaUVkKKZgGyszSAEko5nEoEb8/edit) | [Communal_Service_Feature_PRD](https://docs.google.com/document/d/1Is6FDXneCXtaOvFOYf1MO6GC26j6aLyUR46keFn4tWQ/edit) | — | Not started |
+| 14 | Phase 1 | Community Resources | [KEYS · Community Resources PRD v1.2](https://docs.google.com/document/d/1W27MWqdwI9aWkSjsO0H910KVybyFuWDD0KVesa-0db4/edit) | [Community_Resources_PRD](https://docs.google.com/document/d/1IfOdzRZSmIN77MsbgnWrPYmYmUiH1DGeQWgG1ggETjE/edit) | — | Not started |
+| 15 | Phase 1 | Community Wallet and Virtual Card (marked 'Not being built') | [KEYS · Community Wallet and Virtual Card PRD v1.2](https://docs.google.com/document/d/1B8_120CyAJ-XwD-9vhvnVmn088O9pM0KFOhCT0UvL9Q/edit) | [Keys Community Wallet and Virtual Card Phase 1 PRD](https://docs.google.com/document/d/1JdaWVJNTA_Y811Vzwlb3xpwdu83KXzifcH7BNqWMLP4/edit) | — | Not started |
+| 16 | Phase 1–2 | Admin Panel v4.0 | — | [KEYS Admin Panel PRD v4.0 (Phase 1 and Phase 2)](https://docs.google.com/document/d/19NC7qRbCoDaCicner0zRR2CoJ3WSNq1nk_T2Praw2FY/edit) | — | Not started |
+| 17 | Phase 2 | Vendor Onboarding | [KEYS · Vendor Onboarding PRD v1.2](https://docs.google.com/document/d/1sxMKJy8HjCPlrrjbNVQ74yfhVMbFjFgu4WATLTmEF3I/edit) | [Vendors_Onboarding_PRD_v3_1](https://docs.google.com/document/d/1D2VrBevucaEIPCzPGa0mWNkHAklb6dmAtrWMgvfu6zs/edit) | — | Not started |
+| 18 | Phase 2 | Services Home – Customer | [KEYS · Services Home Customer PRD v1.2](https://docs.google.com/document/d/1DTh5U8A04bBt0d292sT7iK1qs98MOaWWjFWW5YYSP0M/edit) | [Services Home - Customers PRD](https://docs.google.com/document/d/13B6nrc2LBOZTkHBBztPjewFR14rP4SsRBxktNzN_mBk/edit) | — | Not started |
+| 19 | Phase 2 | Services Home – Vendor | [KEYS · Services Home Vendor PRD v1.2](https://docs.google.com/document/d/152RPr-bE-VVldhnxuAgCK53Ng2SE0--wvt4Jy_ugHFk/edit) | [Services_Home_Vendor_Dashboard_PRD_v1](https://docs.google.com/document/d/1mPBSxmxlSU-yN2MSdY0O_gLgfR2XPPXHkWYAfXoaAdU/edit) | — | Not started |
+| 20 | Phase 2 | Service Recommendation | [KEYS · Service Recommendation PRD v1.2](https://docs.google.com/document/d/1LQJ_QEVcY7Y2p7LKdQoRJX9bb-FWMbHUMqFIAHuBIjY/edit) | [Services Recommendation PRD](https://docs.google.com/document/d/1NMLNm9OYJv_-7kkUI-cJXNfJ1sssDPJONYrJeD3zySg/edit) | — | Not started |
+| 21 | Phase 2 | Booking Management – Customer | [KEYS · Booking Management Customer PRD v1.1](https://docs.google.com/document/d/1GMIoBNqsHECFY6eShu5A5b8nh4yVqctf4VKfLXDzahs/edit) | [Booking_Management_Customer_PRD](https://docs.google.com/document/d/160XtFs3cPzcIMgGxt9q2tsrqUUYQPos2-K5xlu7re-0/edit) | — | Not started |
+| 22 | Phase 2 | Booking Management – Vendor | [KEYS · Bookings Management Vendor PRD v1.1](https://docs.google.com/document/d/1HFsEPo8ERXrneG93uN3AIOKyv_353QrquB3TaKXbK8s/edit) | [Booking Management — Business Vendor PRD](https://docs.google.com/document/d/1gh0NmggfjIhwxUL7NqH-vRiW4y7MASngmd1yD_u3AFk/edit) | — | Not started |
+| 23 | Phase 2 | Store Management (Vendor) | [KEYS · Store Management PRD v1.1](https://docs.google.com/document/d/10a1EWXh2qfYPUT4W1RWo1a4GTjHvMJcJp7yyzuGhcbQ/edit) | [Store_Management_Vendor_PRD_v1](https://docs.google.com/document/d/19opGkrwMjusQRpYyNK2ibBdk6rv93Lyig6DxV2eAr40/edit) | — | Not started |
+| 24 | Phase 2 | Service Chat | [KEYS · Service Chat PRD v1.2](https://docs.google.com/document/d/1KqSrTJKYheFHpGZEaQnYGdDMFalH-x5f6_PFMgJaAFo/edit) | [Service Chat PRD](https://docs.google.com/document/d/1hYoi7yJUJ7ckgIllLcqgLDQi1OpYRsQL3B9g5Rp3D4w/edit) | — | Not started |
+| 25 | Phase 2 | Staff Hub | — | [Staff_Hub_PRD](https://docs.google.com/document/d/1tZYg2KklJAVKOlc-vlBFmkhn6Hwo3PObohO6zxtQ0a0/edit) | — | Not started |
+| 26 | Phase 3 | Projects | [KEYS · Projects PRD v1.1](https://docs.google.com/document/d/1AojW8IWyDJ4kghcxk_Upcr2evufMmvROMQFWrP0Nm9M/edit) | [Projects_PRD](https://docs.google.com/document/d/11XtLQMuyCEZ9jotydFx5qnkU7k3kfG7T-1gelo2JoII/edit) | — | Not started |
+| 27 | Platform-wide | Payments (money flows for every feature) | — | [KEYS Payments PRD money flows for every feature](https://docs.google.com/document/d/1cnQ334p5mZkl8d2rv-fbvjVvVZstseqr253APQNJEjQ/edit) | — | Not started |
+| 28 | Platform-wide | Member Exit and Account Deletion | — | [KEYS_-_Member_Exit__Account_Deletion](https://docs.google.com/document/d/1Qpqk9Or2d_fyo9M5hU9kp31Ogw4giNEfb6gVqEAosdo/edit) | — | Not started |
+
+## Supporting files
+
+- [KEYS_Phase1_Requirements_Spec](https://docs.google.com/spreadsheets/d/16_wygArm97hEnAw03ByjeXr_yCs3Bbqgbh5LoWLtsAk/edit) (Platform-wide)
+- [KEYS Phase 1 PRD Tracker_](https://docs.google.com/spreadsheets/d/1jvcuBVE5a1aqNBQSmxm0X_Khrt5xs0Cg4EYvRxsWCcY/edit)
+- [KEYS Phase 2 PRD Tracker (Dorcas – master)](https://docs.google.com/spreadsheets/d/1YL7ZAaQsmeUfye_CfZVTn4sZIZTvzPPPcLcms2gPfpA/edit)
